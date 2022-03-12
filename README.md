@@ -1,9 +1,9 @@
 # Getting Started
 
-####1 - create a database with MySQL
-####4 - copy the JBDC URL to the application.properties file
-####2 - enter the username and the password for the connection
-####3 - open Postman and send a post request to the API
+### 1 - create a database with MySQL
+### 4 - copy the JBDC URL to the application.properties file
+### 2 - enter the username and the password for the connection
+### 3 - open Postman and send a post request to the API
 request must be like: <br />
 { <br />
 &nbsp;&nbsp;"question":{ <br />
